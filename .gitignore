@@ -1,0 +1,36 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# LaTeX build artifacts (if added later)
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.blg
+*.bbl
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Python cache (if scripts added later)
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Large binary files — use Git LFS or Zenodo instead
+*.zip
+*.tar.gz
+*.rar
