@@ -101,7 +101,7 @@ If you use any data, figures, or materials from this repository, please cite:
 ## Data Availability
 
 All supplementary data is also permanently archived on Zenodo:
-**DOI: [INSERT ZENODO DOI]**
+**DOI: https://doi.org/10.5281/zenodo.19172121**
 
 ---
 
