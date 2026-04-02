@@ -13,9 +13,9 @@
 
 ## Authors
 
-Toqeer Ali Syed, Ali Akarma, Tayyeb Naqash, It Ee Lee, Qamar Wali, and Salman Jan
+Toqeer Ali Syed,	Ali Akarma,	Salman Jan,	Hammad Muneer and	Shahid Kamal
 
-**Islamic University of Madinah, Saudi Arabia | Multimedia University, Malaysia | Arab Open University, Bahrain**
+**Islamic University of Madinah, Saudi Arabia | Multimedia University, Malaysia | Arab Open University, Bahrain | Islamia University of Bahawalpur, Pakistan**
 
 ---
 
