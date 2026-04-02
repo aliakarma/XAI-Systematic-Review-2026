@@ -5,6 +5,12 @@
 [![Studies Included](https://img.shields.io/badge/Studies%20Included-188-green)]()
 [![Domains](https://img.shields.io/badge/Domains-5-orange)]()
 
+[![PRISMA 188 Screening](https://img.shields.io/badge/Download-PRISMA_188_Screening-blue?style=for-the-badge&logo=github)](https://github.com/aliakarma/XAI-Systematic-Review-2026/blob/master/data/extraction/XAI_188_PRISMA_Screening.xlsx)
+
+[![References Final](https://img.shields.io/badge/Download-References_Final-green?style=for-the-badge&logo=github)](https://github.com/aliakarma/XAI-Systematic-Review-2026/blob/master/data/extraction/XAI_188_References_Final_18col.xlsx)
+
+[![PRISMA 228 Full](https://img.shields.io/badge/Download-PRISMA_228_Full-orange?style=for-the-badge&logo=github)](https://github.com/aliakarma/XAI-Systematic-Review-2026/blob/master/data/extraction/XAI_228_PRISMA_Full_Screening.xlsx)
+
 ## Authors
 
 Toqeer Ali Syed, Ali Akarma, Tayyeb Naqash, It Ee Lee, Qamar Wali, and Salman Jan
