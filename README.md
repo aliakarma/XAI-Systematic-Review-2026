@@ -11,12 +11,6 @@
 
 [![PRISMA 228 Full](https://img.shields.io/badge/Download-PRISMA_228_Full-orange?style=for-the-badge&logo=github)](https://github.com/aliakarma/XAI-Systematic-Review-2026/blob/master/data/extraction/XAI_228_PRISMA_Full_Screening.xlsx)
 
-## Authors
-
-Toqeer Ali Syed,	Ali Akarma,	Salman Jan,	Hammad Muneer and	Shahid Kamal
-
-**Islamic University of Madinah, Saudi Arabia | Multimedia University, Malaysia | Arab Open University, Bahrain | Islamia University of Bahawalpur, Pakistan**
-
 ---
 
 ## Overview
@@ -85,22 +79,6 @@ XAI-Systematic-Review-2026/
 | `data/extraction/XAI_188_PRISMA_Screening.csv` | 188 included studies with screening decisions |
 | `data/extraction/XAI_228_PRISMA_Full_Screening.csv` | All 228 screened records (188 included + 40 excluded) |
 | `bibliography/references_final.bib` | Complete BibTeX file with DOIs and URLs |
-
----
-
-## How to Cite
-
-If you use any data, figures, or materials from this repository, please cite:
-
-```bibtex
-@article{syed2026xai,
-  author    = {Syed, Toqeer Ali and Akarma, Ali and Naqash, Tayyeb and Lee, It Ee and Wali, Qamar and Jan, Salman},
-  title     = {Trustworthy AI Through Explainability: A Systematic Review of XAI Techniques and Their Role in Safety-Critical Domains},
-  journal   = {},
-  year      = {2026},
-  doi       = {}
-}
-```
 
 ---
 

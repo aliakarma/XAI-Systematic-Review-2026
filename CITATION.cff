@@ -1,39 +1,24 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 type: software
-
 title: "Trustworthy AI Through Explainability - A Systematic Review of XAI Techniques and Their Role in Safety-Critical Domains"
-
 authors:
   - family-names: Syed
     given-names: Toqeer Ali
     affiliation: "Islamic University of Madinah, Saudi Arabia"
-    orcid: "0000-0002-3936-5483"
-
   - family-names: Akarma
     given-names: Ali
     affiliation: "Islamic University of Madinah, Saudi Arabia"
-
   - family-names: Naqash
-    given-names: Tayyeb
+    given-names: Muhammad Tayyab
     affiliation: "Islamic University of Madinah, Saudi Arabia"
-
-  - family-names: Lee
-    given-names: It Ee
-    affiliation: "Multimedia University, Malaysia"
-
-  - family-names: Wali
-    given-names: Qamar
-    affiliation: "Multimedia University, Malaysia"
-
-  - family-names: Jan
-    given-names: Salman
-    affiliation: "Arab Open University, Kingdom of Bahrain"
-
-year: 2026
+  - family-names: Muneer
+    given-names: Hammad
+    affiliation: "The Islamia University of Bahawalpur, Pakistan"
+  - family-names: Formisano
+    given-names: Antonio
+    affiliation: "University of Naples Federico II, Italy"
 version: "1.0.0"
-date-released: 2026-01-01
-
+date-released: 2026-04-11
 url: "https://github.com/aliakarma/XAI-Systematic-Review-2026"
-
 license: "CC-BY-4.0"
