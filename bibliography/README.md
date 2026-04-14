@@ -37,15 +37,6 @@ eprint = {arXiv:1702.08608}
 
 ---
 
-## Usage
-
-To use in LaTeX:
-```latex
-\bibliographystyle{IEEEtran}
-\bibliography{references}
-```
-
----
 
 ## License
 
